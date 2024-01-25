@@ -1,0 +1,5 @@
+package com.codewithdurgesh.blog.config;
+
+public class ContentConfig {
+
+}

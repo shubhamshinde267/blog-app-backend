@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+E:\SPRING_WORKSPACE\BLOG_APP\.metadata\.plugins\org.eclipse.jdt.core
+1947855820.index

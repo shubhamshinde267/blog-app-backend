@@ -1,0 +1,5 @@
+package com.codewithdurgesh.blog.repositories;
+
+public class RoleRepo {
+
+}
